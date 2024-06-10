@@ -1,0 +1,245 @@
+54 190
+Moscow 56.51230429144343 37.9153386007723
+Ulaanbaatar 47.93191334867645 106.91703875534121
+Beijing 39.91419492547078 116.29991032562582
+New Delhi 28.553403435532104 77.12741615347798
+Tokyo 35.614602293777025 139.67222893109147
+Jakarta -5.637075754661206 107.12888913026009
+Canberra -35.119556318015334 149.18106503146166
+Hanoi 21.108451159390754  105.81256323204045
+Manila 14.552071480792142  121.2104561121861
+Kuala Lumpur 3.1296109020460507  101.62000832760312
+Astana 51.27401389168905  71.43617613253183
+Islamabad 34.00398730328058  72.91162733190524
+Riyadh 24.90050443942425  46.652073987465045
+Stockholm 59.459362291098145  17.948009268933323
+Minsk 54.11346815888351  27.51525510680148
+Warsaw 52.22531894890059  20.900873706949184
+Berlin 52.52972553035052  12.644462569615886
+Dublin 53.73053743221319  -6.391919274918188
+Bucharest 44.576227481446715  26.0319168536807
+Vienna 48.368359154440554  15.64726942341139
+Paris 48.894688937140764  2.468463770841578
+Madrid 40.43722452502675  -3.615923630385519
+Ankara 40.1607093616992  32.592498591410106
+Rabat 34.563787314937635  -6.986325938705488
+Tripoli 33.63110748920689  13.391338938404548
+Algiers 37.5348385367757  3.204134465635755
+Cairo 29.85190116305705  31.175896940874473
+Khartoum 15.122614631738545  32.25767572095146
+N'Djamena 12.441135651923494  15.414869071853142
+Niamey 13.606612735840045  2.1305471507726392
+Bamako 12.708009930413846  -7.9391236548835415
+Nouakchott 18.310382146571936  -15.874159832754499
+Addis Ababa 9.357772397533177  38.80737388245608
+Kampala 0.19014993865768115  32.5030141307804
+Yaounde 4.130841002553339  11.49178813875077
+Accra 5.761555772351334  -0.4021647222104262
+Abuja 9.023617928859737  7.532186119838434
+Kinshasa -4.381262103884941  16.09446497332127
+Dodoma -5.995180182517577  35.734080705514245
+Lusaka -15.5188762131102  27.67137485892693
+Luanda -8.81755980339818  13.259817177571758
+Gaborone -24.585083751346435  25.890898967998698
+Windhoek -22.634665815665667  17.006238270350625
+Antananarivo -18.89764472828475 47.510756741226736
+Cape Town -31.86892920147045 18.172453454437573
+Ottawa 45.71457539770727  -76.50559351673931
+Havana 22.809124434666806  -82.21818924275378
+Reykjavik 64.30405437040528  -21.963900731506396
+Mexico City 19.52182012218876 -99.11950532404985
+Caracas 10.797859327371995  -66.64467923651553
+Quito 0.13017260556956864  -78.77124862191232
+Brasilia -15.643804147603142  -48.007962337507834
+Buenos Aires -34.51477591079061  -58.435606724860456
+X 33.882 35.5
+X Ottawa
+Moscow  Ulaanbaatar
+Moscow  Astana
+Moscow  Minsk
+Moscow  Stockholm
+Ulaanbaatar  Moscow
+Ulaanbaatar  Beijing
+Ulaanbaatar  Tokyo
+Ulaanbaatar  Astana
+Tokyo  Ulaanbaatar
+Tokyo  Beijing
+Tokyo  Canberra
+Beijing  Tokyo
+Beijing  Manila
+Beijing  Ulaanbaatar
+Beijing  Astana
+Beijing  Hanoi
+Beijing  Islamabad
+Beijing  New Delhi
+Manila  Beijing
+Manila  Jakarta
+Manila  Kuala Lumpur
+Manila  Hanoi
+Jakarta  Kuala Lumpur
+Jakarta  Manila
+Jakarta  Canberra
+Kuala Lumpur  Jakarta
+Kuala Lumpur  Hanoi
+Hanoi  Beijing
+Hanoi  Kuala Lumpur
+Hanoi  Manila
+Hanoi  New Delhi
+Canberra  Tokyo
+Canberra  Jakarta
+Astana  Moscow
+Astana  Ulaanbaatar
+Astana  Beijing
+Astana  Islamabad
+New Delhi  Islamabad
+New Delhi  Beijing
+New Delhi  Hanoi
+Islamabad  New Delhi
+Islamabad  Beijing
+Islamabad  Astana
+Islamabad  Riyadh
+Islamabad  Ankara
+Riyadh  Islamabad
+Riyadh  Khartoum
+Riyadh  Cairo
+Riyadh  Ankara
+Minsk  Moscow
+Minsk  Warsaw
+Minsk  Stockholm
+Stockholm  Moscow
+Stockholm  Warsaw
+Stockholm  Minsk
+Stockholm  Berlin
+Warsaw  Stockholm
+Warsaw  Minsk
+Warsaw  Berlin
+Warsaw  Bucharest
+Warsaw  Vienna
+Berlin  Warsaw
+Berlin  Vienna
+Berlin  Dublin
+Berlin  Stockholm 
+Dublin  Berlin
+Dublin  Paris
+Dublin  Reykjavik
+Berlin  Paris
+Paris  Berlin
+Paris  Dublin 
+Paris  Vienna
+Paris  Madrid 
+Vienna  Paris
+Vienna  Berlin
+Vienna  Warsaw
+Vienna  Bucharest 
+Bucharest  Vienna
+Bucharest  Warsaw
+Bucharest  Ankara
+Ankara  Bucharest
+Ankara  Riyadh
+Ankara  Islamabad
+Madrid  Paris
+Madrid  Algiers
+Madrid  Rabat 
+Algiers  Rabat
+Algiers  Niamey
+Algiers  Bamako
+Algiers  Nouakchott
+Algiers  Tripoli
+Rabat  Madrid
+Rabat  Algiers
+Rabat  Bamako
+Rabat  Nouakchott
+Tripoli  Algiers
+Tripoli  Niamey
+Tripoli  Cairo
+Tripoli  N'Djamena
+Cairo  Riyadh
+Cairo  Khartoum
+Cairo  Tripoli
+Nouakchott  Rabat
+Nouakchott  Algiers
+Nouakchott  Bamako
+Nouakchott  Caracas
+Bamako  Nouakchott
+Bamako  Rabat
+Bamako  Algiers
+Bamako  Niamey
+Bamako  Accra
+Niamey  Bamako
+Niamey  Tripoli
+Niamey  Algiers
+Niamey  Abuja
+Niamey  N'Djamena
+Niamey  Accra
+N'Djamena  Niamey
+N'Djamena  Tripoli
+N'Djamena  Yaounde
+N'Djamena  Khartoum
+N'Djamena  Abuja
+Khartoum  N'Djamena
+Khartoum  Cairo
+Khartoum  Addis Ababa
+Khartoum  Riyadh
+Addis Ababa  Khartoum
+Addis Ababa  Kampala
+Accra  Niamey
+Accra  Bamako
+Accra  Abuja
+Abuja  Accra  
+Abuja  N'Djamena
+Abuja  Yaounde
+Abuja  Niamey
+Yaounde  Abuja
+Yaounde  N'Djamena
+Yaounde  Kinshasa
+Kinshasa  Yaounde
+Kinshasa  Kampala
+Kinshasa  Luanda
+Kampala  Kinshasa
+Kampala  Addis Ababa
+Kampala  Antananarivo
+Kampala  Dodoma
+Luanda  Kinshasa
+Luanda  Lusaka
+Luanda  Windhoek
+Lusaka  Luanda
+Lusaka  Gaborone
+Lusaka  Antananarivo 
+Lusaka  Dodoma
+Dodoma  Lusaka
+Dodoma  Kampala
+Dodoma  Antananarivo
+Antananarivo  Lusaka
+Antananarivo  Addis Ababa
+Windhoek  Luanda
+Windhoek  Cape Town
+Windhoek  Gaborone
+Gaborone  Windhoek
+Gaborone  Lusaka
+Gaborone  Cape Town
+Antananarivo  Lusaka
+Antananarivo  Dodoma
+Cape Town  Gaborone
+Cape Town  Windhoek
+Reykjavik  Ottawa
+Reykjavik  Dublin
+Ottawa  Havana
+Ottawa  Reykjavik
+Ottawa  Mexico City
+Havana  Ottawa
+Havana  Mexico City
+Havana  Caracas
+Mexico City  Havana
+Mexico City  Ottawa
+Caracas  Havana
+Caracas  Nouakchott
+Caracas  Quito
+Caracas  Brasilia
+Quito  Caracas
+Quito  Brasilia
+Quito  Buenos Aires
+Brasilia  Quito
+Brasilia  Caracas
+Brasilia  Buenos Aires
+Buenos Aires  Quito
+Buenos Aires  Brasilia
